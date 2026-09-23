@@ -13,6 +13,10 @@
 
 [Download APK](#-installation) · [Features](#-features) · [Build from Source](#-build-from-source) · [Contribute](#-contributing)
 
+<a href="https://github.com/Ibrahimdalxa/Volume-Toggle/releases/download/v1.0.0/Volume-Toggle.apk">
+  <img src="https://img.shields.io/badge/⬇️%20Download-Volume--Toggle.apk-brightgreen?style=for-the-badge" alt="Download APK" />
+</a>
+
 </div>
 
 ---
@@ -48,7 +52,7 @@ It's built entirely with modern Android tooling — Kotlin, Jetpack Compose, and
 
 ### Option 1 — Download the APK (recommended for most users)
 
-1. Grab the latest **`Volume-Toggle.apk`** from the [Releases](../../releases) page (also available in the repo root).
+1. Tap the **[⬇️ Download Volume-Toggle.apk](https://github.com/Ibrahimdalxa/Volume-Toggle/releases/download/v1.0.0/Volume-Toggle.apk)** button above, or grab it from the [Releases](https://github.com/Ibrahimdalxa/Volume-Toggle/releases) page.
 2. On your Android device, open the downloaded file. If prompted, allow installation from this source (**Settings → Security → Install unknown apps**).
 3. Tap **Install**, then open the app and start toggling.
 
@@ -69,7 +73,7 @@ See [Build from Source](#-build-from-source) below.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Volume-Toggle.git
+git clone https://github.com/Ibrahimdalxa/Volume-Toggle.git
 cd Volume-Toggle
 
 # Open in Android Studio and let Gradle sync, or build from the CLI:
@@ -120,7 +124,7 @@ Contributions, bug reports, and feature ideas are all welcome!
 3. Commit your changes
 4. Open a pull request
 
-If you just want to report a bug, [open an issue](../../issues) with steps to reproduce and your device/Android version.
+If you just want to report a bug, [open an issue](https://github.com/Ibrahimdalxa/Volume-Toggle/issues) with steps to reproduce and your device/Android version.
 
 ## 📄 License
 
