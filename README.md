@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 [![Min SDK](https://img.shields.io/badge/minSdk-24%20(Android%207.0+)-blue)](https://developer.android.com/tools/releases/platforms)
 [![Built with](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)](#license)
+
 
 [Download APK](#-installation) · [Features](#-features) · [Build from Source](#-build-from-source) · [Contribute](#-contributing)
 
@@ -125,9 +125,7 @@ Contributions, bug reports, and feature ideas are all welcome!
 
 If you just want to report a bug, [open an issue](https://github.com/Ibrahimdalxa/Volume-Toggle/issues) with steps to reproduce and your device/Android version.
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+.
 
 ---
 
