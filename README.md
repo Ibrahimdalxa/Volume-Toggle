@@ -43,7 +43,7 @@ It's built entirely with modern Android tooling — Kotlin, Jetpack Compose, and
 <i>Add screenshots here to show off the toggle UI, widget, and dark mode.</i>
 
 | Home Screen | Toggle ON | Toggle OFF |
-|:<img src="https://i.ibb.co.com/k2Vz2xQ6/621524908-1789590692118964.jpg" />:|:---:|:---:|
+|:<img src="https://i.ibb.co.com/7JJwhwMK/home-screen.jpg" width="120" height="250"  />:|:---:|:---:|
 | _screenshot_ | _screenshot_ | _screenshot_ |
 
 </div>
