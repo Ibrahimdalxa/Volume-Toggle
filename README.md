@@ -40,11 +40,10 @@ It's built entirely with modern Android tooling — Kotlin, Jetpack Compose, and
 ## 📱 Screenshots
 
 <div align="center">
-<i>Add screenshots here to show off the toggle UI, widget, and dark mode.</i>
 
-| Home Screen | Toggle ON | Toggle OFF |
-|:<img src="https://i.ibb.co.com/7JJwhwMK/home-screen.jpg" width="120" height="250"  />:|<img src="https://i.ibb.co.com/4R5C6WgF/mute.jpg" width-"120" height="255" />|<img src="https://i.ibb.co.com/B2fMx69f/toggle-off.jpg" width="120" heigth="255" />|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| Home Screen | Mute Toggled | Toggle Off |
+|:---:|:---:|:---:|
+| <img src="https://i.ibb.co.com/7JJwhwMK/home-screen.jpg" width="200" /> | <img src="https://i.ibb.co.com/4R5C6WgF/mute.jpg" width="200" /> | <img src="https://i.ibb.co.com/B2fMx69f/toggle-off.jpg" width="200" /> |
 
 </div>
 
